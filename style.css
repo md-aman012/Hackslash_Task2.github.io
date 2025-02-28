@@ -38,6 +38,7 @@ body {
     border-radius: 5px;
     text-align: center;
     overflow-y: visible;
+    overflow-x:auto;
 }
 
 /* responsive images */
