@@ -37,9 +37,8 @@ body {
     color: white;
     border-radius: 5px;
     text-align: center;
-    
-    /* overflow-y: visible; */
-    /* overflow-x: auto; */
+     overflow-y: visible;
+     overflow-x: auto;
 }
 
 /* responsive images */
