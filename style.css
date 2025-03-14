@@ -1,4 +1,4 @@
-* {
+ko* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -31,14 +31,15 @@ body {
 }
 
 #top-right-button {
-    height: 5vh;
+    height: 4vh;
     width: 12vw;
     background: #1735eb;
     color: white;
     border-radius: 5px;
     text-align: center;
-/*     overflow-y: visible; */
-    overflow-x:auto;
+    
+    /* overflow-y: visible; */
+    /* overflow-x: auto; */
 }
 
 /* responsive images */
